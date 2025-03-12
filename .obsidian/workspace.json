@@ -1,41 +1,70 @@
 {
   "main": {
-    "id": "d336968b37fca3ec",
+    "id": "3234d6ca29389c4a",
     "type": "split",
     "children": [
       {
-        "id": "6389e383eb9b57c8",
+        "id": "29daf02cb4bdae26",
         "type": "tabs",
         "children": [
           {
-            "id": "d258e8a016d62702",
+            "id": "332670194586a138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installation.md",
+                "file": "Definitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation"
+              "title": "Definitions"
+            }
+          },
+          {
+            "id": "fadedf3ab07feabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quick Notes"
+            }
+          },
+          {
+            "id": "24cc3e38a435aaa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Candle Stick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Candle Stick"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "82672e0b5019715e",
+    "id": "e7ad8eb8ae14c782",
     "type": "split",
     "children": [
       {
-        "id": "a8099eda6451c0f1",
+        "id": "ffe848f803983ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "3e176fc497d0f723",
+            "id": "7afe473bc4703d1d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +77,7 @@
             }
           },
           {
-            "id": "a9819cdb4277a957",
+            "id": "d209ceacfd07cb6b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +94,7 @@
             }
           },
           {
-            "id": "abe3c1d7de7f179d",
+            "id": "90720a2c85045d0d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,25 +110,15 @@
     "width": 300
   },
   "right": {
-    "id": "b801be2bf5690556",
+    "id": "2475cb1f44db537a",
     "type": "split",
     "children": [
       {
-        "id": "c9b5c6ee3a4e308f",
+        "id": "13b52b1a2f0c3e09",
         "type": "tabs",
         "children": [
           {
-            "id": "fb2b43564027e017",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "7d9e7d1a59336bac",
+            "id": "4c76fb0040aa9c5e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -117,7 +136,7 @@
             }
           },
           {
-            "id": "52a2acb02b88b5a9",
+            "id": "a3a70f95e951c536",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,29 +149,46 @@
             }
           },
           {
-            "id": "b2b18c0c20d54db2",
+            "id": "51101e764c4bd9df",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e1f7926febb5f6f1",
+            "id": "48885bb26ea8f2e0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "98b1fbf76d6e7ff4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,8 +205,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d258e8a016d62702",
+  "active": "24cc3e38a435aaa4",
   "lastOpenFiles": [
-    "Installation.md"
+    "attachments/Pasted image 20250312141951.png",
+    "attachments/Pasted image 20250312141825.png",
+    "attachments/Pasted image 20250312141314.png",
+    "attachments/Pasted image 20250312141217.png",
+    "attachments",
+    "Definitions.md",
+    "Candle Stick.md",
+    "Quick Notes.md",
+    "Installation.md",
+    "Welcome.md"
   ]
 }

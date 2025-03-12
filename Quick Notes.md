@@ -1,0 +1,1 @@
+*Just a quick place to quickly jot down notes without the worry of organization*

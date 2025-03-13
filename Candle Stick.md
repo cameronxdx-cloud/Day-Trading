@@ -16,5 +16,8 @@
 *Upper Shadow*
 
 ![](attachments/Pasted%20image%2020250312141825.png)
+
+# Continuation Candles
 ![](attachments/Pasted%20image%2020250312141951.png)- Both have a large body 
-- 
+
+# Question Mark Candles

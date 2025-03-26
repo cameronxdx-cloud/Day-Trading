@@ -9,7 +9,3 @@ Price Action
 Indicators 
 - Upper
 - Lower
-Open
-- the HIGH
-Close
-- the LOW

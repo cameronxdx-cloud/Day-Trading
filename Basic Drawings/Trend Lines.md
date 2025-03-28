@@ -30,3 +30,5 @@ Multiple levels having confluence should give you more confidence that a level w
 ![](attachments/Pasted%20image%2020250328111548.png)
 
 - Once the point touches the super support, it will follow the trend line. 
+
+Stop time 37:37

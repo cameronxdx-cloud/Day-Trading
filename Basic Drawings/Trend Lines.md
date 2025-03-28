@@ -22,3 +22,11 @@ Use the bottom or the top of a relevant move as the anchor point.
 
 Start using the swing out method for first touch and adjust from there.
 
+# Super Support & Resistances 
+Horizontal support or resistance that coincides with a trend line support or resistance. 
+
+Multiple levels having confluence should give you more confidence that a level will hold as either support or resistance. 
+
+![](attachments/Pasted%20image%2020250328111548.png)
+
+- Once the point touches the super support, it will follow the trend line. 

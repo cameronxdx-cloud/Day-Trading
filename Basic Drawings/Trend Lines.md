@@ -31,4 +31,12 @@ Multiple levels having confluence should give you more confidence that a level w
 
 - Once the point touches the super support, it will follow the trend line. 
 
-Stop time 37:37
+## How Do I Know If Support Or Resistance Will Be Broken?
+
+What is the current trend?
+
+How many touches does the level have?
+
+Is price coming from far or from near?
+
+What type of candles are forming?

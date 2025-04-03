@@ -42,3 +42,11 @@ Is price coming from far or from near?
 What type of candles are forming?
 
 How many touches does the level have?
+
+# Recap
+
+Support & Resistance - Price levels that the market responds to by bouncing off of or breaking through. 
+
+Super Levels - A support or resistance level that has both horizontal and trend line confluence. 
+
+Will It Break? - Current trend? Near or far? Touches? What type of candles? Establish CONTEXT!

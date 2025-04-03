@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Drawings/Support & Resistance Theory.md",
+                "file": "Basic Drawings/Trend Lines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Support & Resistance Theory"
+              "title": "Trend Lines"
             }
           }
         ],
@@ -221,9 +221,9 @@
   },
   "active": "4475c8f046e4524f",
   "lastOpenFiles": [
-    "Price & Volume/Candle Stick.md",
-    "Basic Drawings/Trend Lines.md",
     "Basic Drawings/Support & Resistance Theory.md",
+    "Basic Drawings/Trend Lines.md",
+    "Price & Volume/Candle Stick.md",
     "Definitions.md",
     "Basic Drawings/attachments/Pasted image 20250328111548.png",
     "Basic Drawings/attachments/Pasted image 20250328105852.png",

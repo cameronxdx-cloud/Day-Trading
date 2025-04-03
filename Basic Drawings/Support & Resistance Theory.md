@@ -1,4 +1,31 @@
 ![](attachments/Pasted%20image%2020250328095709.png)
+
+In the simplest terms, **support** and **resistance** are key price levels where a stock or asset tends to stop moving in a certain direction.
+
+### **Support**:
+- This is the price level where the price tends to **stop falling** and may start rising again. Think of it like a "floor" for the price.
+- When a stock or asset reaches this level, **buyers** are more likely to step in and start buying, which pushes the price back up.
+
+### **Resistance**:
+- This is the price level where the price tends to **stop rising** and may start falling again. Think of it like a "ceiling" for the price.
+- When a stock or asset hits this level, **sellers** are more likely to step in and start selling, which pushes the price back down.
+
+As a **day trader**, you use these levels to help decide when to enter or exit trades. For example:
+- If the price is near **support**, you might consider buying, expecting the price to bounce back up.
+- If the price is near **resistance**, you might consider selling, expecting the price to drop.
+
+These levels are not always exact, but they give you a good idea of where price might turn around.
+
+
+
+
+
+
+
+
+
+
+
 **Support:**
 - Areas of demand. A price level where traders want to buy more shares. 
 - Visually prices don't go LOWER than this level.

@@ -33,10 +33,12 @@ Multiple levels having confluence should give you more confidence that a level w
 
 ## How Do I Know If Support Or Resistance Will Be Broken?
 
-What is the current trend?
+*Identify the context by answering these questions*
 
-How many touches does the level have?
+What is the current trend?
 
 Is price coming from far or from near?
 
 What type of candles are forming?
+
+How many touches does the level have?

@@ -56,8 +56,8 @@ Pullbacks form a "neck line" that provides confirmation for entry point.
 
 Typically harder to trade and can confuse traders 
 
-**Rising** wedge is actually a **Bearish** pattern.
-Falling wedge is actually a **Bullish** pattern.
+- **Rising** wedge is actually a **Bearish** pattern.
+- Falling wedge is actually a **Bullish** pattern.
 
 Consists of two trend lines showing compression of range. The slower sloping trend lines represents buying / selling pressure slowing down.
 

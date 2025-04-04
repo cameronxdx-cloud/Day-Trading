@@ -71,3 +71,6 @@ Consists of two trend lines showing compression of range. The slower sloping tre
 
 **What is volume doing?**
 
+# Recap
+
+**Reversal Patterns** - Favor a change of the current trend. Can be used to initiate new positions or avoid adding to a current position. 

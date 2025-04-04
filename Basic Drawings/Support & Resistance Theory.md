@@ -18,14 +18,6 @@ These levels are not always exact, but they give you a good idea of where price 
 
 
 
-
-
-
-
-
-
-
-
 **Support:**
 - Areas of demand. A price level where traders want to buy more shares. 
 - Visually prices don't go LOWER than this level.

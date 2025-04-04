@@ -42,3 +42,10 @@ Pullback forms a **"neck line"** that provides confirmation for entry point.
 - Bounce when we come into support 
 - Equal low on the re test 
 - Once it breaks the neckline, upward trend.
+
+# Head and Shoulders / Inverted 
+A more reliable version of the double top / bottom 
+
+Involves ==**three== unequal highs or lows**, with the middle level being the highest / lowest.
+
+Pullbacks form a "neck line" that provides confirmation for entry point. 

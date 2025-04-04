@@ -49,3 +49,6 @@ A more reliable version of the double top / bottom
 Involves ==**three== unequal highs or lows**, with the middle level being the highest / lowest.
 
 Pullbacks form a "neck line" that provides confirmation for entry point. 
+
+![](attachments/Pasted%20image%2020250404120034.png)
+

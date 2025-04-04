@@ -30,3 +30,15 @@ Price tests a prior support or resistance, and fails to break out / break down.
 Pullback forms a **"neck line"** that provides confirmation for entry point. 
 
 ![](attachments/Pasted%20image%2020250404113919.png)
+
+*Double Top* 
+- Known area of resistance 
+- The pull back low on the first re-test of that resistance 
+- Equal high (red line)
+- Break of the neck line shows downward trend 
+
+*Double Bottom*
+- Support (green line)
+- Bounce when we come into support 
+- Equal low on the re test 
+- Once it breaks the neckline, upward trend.

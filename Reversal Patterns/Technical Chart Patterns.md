@@ -61,3 +61,4 @@ Typically harder to trade and can confuse traders
 
 Consists of two trend lines showing compression of range. The slower sloping trend lines represents buying / selling pressure slowing down.
 
+![](attachments/Pasted%20image%2020250404140055.png)

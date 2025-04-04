@@ -64,10 +64,10 @@ Consists of two trend lines showing compression of range. The slower sloping tre
 ![](attachments/Pasted%20image%2020250404140055.png)
 
 **Rising Wedge** 
-- Comes from an up trend, and the result of the pattern once it finishes, is a downwards trend. 
+- Comes from an up trend, and the result of the pattern once it finishes, is a **DOWN** trend. 
 
 **Falling Wedge** 
-- Comes from a down trend, and the result of the pattern once it finishes, is a up trend. 
+- Comes from a down trend, and the result of the pattern once it finishes, is a **UP** trend. 
 
 **What is volume doing?**
 

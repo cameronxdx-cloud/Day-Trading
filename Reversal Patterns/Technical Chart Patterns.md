@@ -68,3 +68,6 @@ Consists of two trend lines showing compression of range. The slower sloping tre
 
 **Falling Wedge** 
 - Comes from a down trend, and the result of the pattern once it finishes, is a up trend. 
+
+**What is volume doing?**
+

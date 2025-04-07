@@ -12,3 +12,14 @@ Trend lines do not have to have perfect touches every time price reverses.
 Clear placement of orders for entry and exit 
 
 ![](attachments/Pasted%20image%2020250407143524.png)
+
+Bullish: Want to be a **buyer** at **support**; **seller** at **resistance** 
+Bearish: **Seller** first at resistance 
+
+**What candles are forming in Bullish Channel?** 
+- Reversal at every time you come into support trend line or resistance trendline 
+- ![](attachments/Pasted%20image%2020250407143915.png)
+
+**What candles are forming in a Bearish Channel?** 
+- Inverted hammer candle 
+- ![](attachments/Pasted%20image%2020250407144041.png)

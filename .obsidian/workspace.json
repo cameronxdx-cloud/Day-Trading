@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuation Patterns (Next)/Continuation Patterns.md",
+                "file": "Breakout Patterns (Next)/Breakout Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continuation Patterns"
+              "title": "Breakout Patterns"
             }
           }
         ],
@@ -249,15 +249,19 @@
   },
   "active": "ebcafcab51200a7c",
   "lastOpenFiles": [
-    "Continuation Patterns (Next)/attachments/Pasted image 20250408140843.png",
-    "Continuation Patterns (Next)/attachments/Pasted image 20250408132326.png",
-    "Continuation Patterns (Next)/attachments/Pasted image 20250407144041.png",
-    "Continuation Patterns (Next)/attachments/Pasted image 20250407143915.png",
-    "Continuation Patterns (Next)/attachments/Pasted image 20250407143524.png",
-    "Continuation Patterns (Next)/attachments",
+    "Breakout Patterns (Next)/attachments/Pasted image 20250408142520.png",
+    "Breakout Patterns (Next)/attachments",
+    "Continuation Patterns/Continuation Patterns.md",
+    "Breakout Patterns (Next)/Breakout Patterns.md",
+    "Breakout Patterns (Next)",
+    "Continuation Patterns/attachments/Pasted image 20250408140843.png",
+    "Continuation Patterns/attachments/Pasted image 20250408132326.png",
+    "Continuation Patterns/attachments/Pasted image 20250407144041.png",
+    "Continuation Patterns/attachments/Pasted image 20250407143915.png",
+    "Continuation Patterns/attachments/Pasted image 20250407143524.png",
+    "Continuation Patterns/attachments",
     "Reversal Patterns/Technical Chart Patterns.md",
-    "Continuation Patterns (Next)/Continuation Patterns.md",
-    "Continuation Patterns (Next)",
+    "Continuation Patterns",
     "Basic Drawings/Support & Resistance Theory.md",
     "Definitions.md",
     "Reversal Patterns/attachments/Pasted image 20250404140055.png",
@@ -269,14 +273,12 @@
     "Price & Volume/Volume.md",
     "Price & Volume/attachments/Pasted image 20250404114052.png",
     "Price & Volume/attachments/Pasted image 20250404114044.png",
-    "Price & Volume/attachments/Pasted image 20250404114036.png",
     "Price & Volume/attachments",
     "Reversal Patterns/attachments",
     "Reversal Patterns",
     "Basic Drawings/attachments",
     "Basic Drawings",
     "Price & Volume",
-    "attachments",
     "Installation.md",
     "Welcome.md"
   ]

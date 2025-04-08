@@ -11,3 +11,5 @@ Best when forming in neutral or bullish environments on **decreased volume**.
 The more touches to the resistance portion of the top pattern the more explosive the breakout.
 
 ![](attachments/Pasted%20image%2020250408142520.png)
+
+**Remember these patterns can still break either way.**

@@ -8,8 +8,23 @@ Can lead to false breakouts more often than some of the other patterns we've cov
 
 Best when forming in neutral or bullish environments on **decreased volume**.
 
-The more touches to the resistance portion of the top pattern the more explosive the breakout.
+The more touches to the **resistance** portion of the top pattern the more explosive the breakout.
 
 ![](attachments/Pasted%20image%2020250408142520.png)
 
 **Remember these patterns can still break either way.**
+
+**Place stop loss under support trend line**
+
+**Whenever you get a breakout in one direction, be on the look out for a potential pullback to back-test the breakout level.
+
+## Descending Triangle (Flush Point)
+
+Best when forming in neutral or **bearish** environments on **decreased** volume. 
+
+The more touches to the support portion of the pattern the more explosive the break down.
+
+![](attachments/Pasted%20image%2020250408161021.png)
+
+**Remember these patterns can still break either way**
+

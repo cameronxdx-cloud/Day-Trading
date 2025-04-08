@@ -51,3 +51,5 @@ Volume bars are strong during that spike up
 ## Recap
 
 **CONTINUATION PATTERNS** - Favor a continuation of the trend. Also known as consolidation patterns and reflect market participants pausing before next move. 
+
+![](attachments/Pasted%20image%2020250408140843.png)

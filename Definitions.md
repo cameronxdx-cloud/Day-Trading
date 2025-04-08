@@ -29,3 +29,4 @@
 
 **Zone Method**
 
+**Stop Loss**

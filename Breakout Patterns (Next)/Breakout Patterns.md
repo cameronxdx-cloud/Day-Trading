@@ -28,3 +28,12 @@ The more touches to the support portion of the pattern the more explosive the br
 
 **Remember these patterns can still break either way**
 
+## Symmetrical Triangle 
+
+Favors a break in the direction of the most recent prevailing trend
+
+The more time the pattern takes to play out the larger the breakout should be.
+
+Most likely to have false breakouts.
+
+![](attachments/Pasted%20image%2020250408164749.png)

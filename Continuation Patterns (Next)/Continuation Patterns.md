@@ -47,3 +47,7 @@ Clear placement of orders for entry and exit.
 
 **When you see an aggressive high upside, will little pull back, look for a potential flag pattern** 
 Volume bars are strong during that spike up 
+
+## Recap
+
+**CONTINUATION PATTERNS** - Favor a continuation of the trend. Also known as consolidation patterns and reflect market participants pausing before next move. 

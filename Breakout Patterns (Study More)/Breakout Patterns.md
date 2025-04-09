@@ -39,3 +39,8 @@ Most likely to have false breakouts.
 ![](attachments/Pasted%20image%2020250408164749.png)
 
 **When resistance becomes broken, it becomes support **
+
+## Recap
+**Breakout Patterns** - Favor a breakout in the direction of the most recent trend. Remember balance leads to excess, excess leads to balance. 
+
+![](attachments/Pasted%20image%2020250409155727.png)

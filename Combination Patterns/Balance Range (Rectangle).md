@@ -34,3 +34,5 @@ Has multiple components. Reversal top & bottom and stacked flag pattern.
 Price forms a rounded bottom/top, makes an advance/decline, consolidates and continues. 
 
 Strongest on higher time frame charts. 30 Minute, Daily, Weekly, etc...
+
+![](attachments/Pasted%20image%2020250409124509.png)

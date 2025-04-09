@@ -37,3 +37,5 @@ The more time the pattern takes to play out the larger the breakout should be.
 Most likely to have false breakouts.
 
 ![](attachments/Pasted%20image%2020250408164749.png)
+
+**When resistance becomes broken, it becomes support **

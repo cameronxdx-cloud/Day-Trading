@@ -16,3 +16,9 @@ Bearish - 100% Retracement means coming all the way back to the top
 Used to gauge moves that have not yet happened. 
 
 ![](attachments/Pasted%20image%2020250410104607.png)
+
+## Recap 
+
+**Fibonacci Retracement** - Price levels that help gauge the strength, or lack there of, on pullbacks
+
+**Fibonacci Extensions** - Price level predictions based on an existing move, to gauge targets when no historic data exists.

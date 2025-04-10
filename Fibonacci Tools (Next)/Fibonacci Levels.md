@@ -10,3 +10,9 @@ Bullish -  100% Retracement means coming all the way back to the bottom
 If you fail/below 61.8
 
 Bearish - 100% Retracement means coming all the way back to the top 
+
+# Fibonacci Extensions 
+
+Used to gauge moves that have not yet happened. 
+
+![](attachments/Pasted%20image%2020250410104607.png)

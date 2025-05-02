@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fibonacci Tools/Fibonacci Levels.md",
+                "file": "Definitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fibonacci Levels"
+              "title": "Definitions"
             }
           }
         ],
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314
   },
   "right": {
     "id": "2475cb1f44db537a",
@@ -275,20 +275,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7afe473bc4703d1d",
+  "active": "1e058ad035b82c30",
   "lastOpenFiles": [
+    "Price & Volume/Candle Stick.md",
+    "Basic Drawings/Trend Lines.md",
+    "Basic Drawings/Support & Resistance Theory.md",
+    "Fibonacci Tools/Fibonacci Levels.md",
     "Upper Studies (Next)",
     "Fibonacci Tools/attachments/Pasted image 20250410104607.png",
     "Fibonacci Tools/attachments/Pasted image 20250410091649.png",
     "Fibonacci Tools/attachments",
     "Continuation Patterns/Continuation Patterns.md",
-    "Fibonacci Tools/Fibonacci Levels.md",
     "Breakout Patterns (Study More)/Breakout Patterns.md",
     "Breakout Patterns (Study More)/attachments/Pasted image 20250409155727.png",
     "Reversal Patterns/Technical Chart Patterns.md",
     "Combination Patterns/Balance Range (Rectangle).md",
     "Price & Volume/Volume.md",
-    "Price & Volume/Candle Stick.md",
     "Fibonacci Tools",
     "Combination Patterns/attachments/Pasted image 20250409124509.png",
     "Combination Patterns/attachments/Pasted image 20250409102800.png",
@@ -304,11 +306,8 @@
     "Continuation Patterns/attachments/Pasted image 20250408140843.png",
     "Continuation Patterns/attachments",
     "Continuation Patterns",
-    "Basic Drawings/Support & Resistance Theory.md",
     "Quick Notes.md",
-    "Basic Drawings/Trend Lines.md",
     "Price & Volume/attachments",
-    "Reversal Patterns/attachments",
     "Installation.md",
     "Welcome.md"
   ]

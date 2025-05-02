@@ -1,8 +1,8 @@
 **Long (Bullish)**
-- Buying first in hopes to sell at a higher price in the future, Want to see price go UP.
+- UpTrend. Buying first in hopes to sell at a higher price in the future, Want to see price go UP.
 
 **Short (Bearish)**
-- Selling first in hopes to buy at a lower price in the future. Want to see prices go DOWN.
+-Downtrend. Selling first in hopes to buy at a lower price in the future. Want to see prices go DOWN.
 
 **Volume**
 - The amount of shares or contracts exchanged over a period of time.

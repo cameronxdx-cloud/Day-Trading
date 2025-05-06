@@ -20,3 +20,4 @@
 - Stick consolidates sideways through lunch, no trend if VWAP is crossed with confirmation , watch for a rally. 
 - VWAP divergence touch.
 - Counter trend move into the VWAP against the direction it is pointing, should lead to bounce. 
+43:13

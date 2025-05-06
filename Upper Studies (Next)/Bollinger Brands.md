@@ -11,4 +11,12 @@
 - Plots the average price of an asses throughout the day based on **volume and price.** Intraday indicator.
 - Can be support and resistance; Remember supers.
 - Market makers use it as "fairest price to do business."
-35:53
+
+## Strategies For VMWAP Use
+- VWAP hold on first pullback.
+- Large range expansion in first 15 min
+- If pullback holds the VWAP level continuation is likely. 
+- VWAP reclaim on late day rally.
+- Stick consolidates sideways through lunch, no trend if VWAP is crossed with confirmation , watch for a rally. 
+- VWAP divergence touch.
+- Counter trend move into the VWAP against the direction it is pointing, should lead to bounce. 

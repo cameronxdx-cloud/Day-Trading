@@ -160,9 +160,23 @@
               "icon": "lucide-file",
               "title": "Bollinger Brands"
             }
+          },
+          {
+            "id": "34d1da92b6ee53df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quick Notes"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -317,27 +331,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ee581b393dce572",
+  "active": "34d1da92b6ee53df",
   "lastOpenFiles": [
-    "Upper Studies (Next)/Moving Averages Market Indicators.md",
-    "Upper Studies (Next)/Bollinger Brands.md",
-    "Upper Studies (Next)/attachments/Pasted image 20250502123726.png",
-    "Upper Studies (Next)/attachments",
-    "Price & Volume/Candle Stick.md",
+    "attachments/Pasted image 20250507135730.png",
+    "Upper Studies (Next)/Pivot Points.md",
     "Definitions.md",
+    "Upper Studies (Next)/Bollinger Brands.md",
+    "Breakout Patterns (Study More)/Breakout Patterns.md",
+    "Reversal Patterns/Technical Chart Patterns.md",
+    "Upper Studies (Next)/Moving Averages Market Indicators.md",
+    "Price & Volume/Volume.md",
+    "Price & Volume/Candle Stick.md",
+    "Continuation Patterns/Continuation Patterns.md",
+    "Combination Patterns/Balance Range (Rectangle).md",
     "Basic Drawings/Trend Lines.md",
     "Basic Drawings/Support & Resistance Theory.md",
     "Fibonacci Tools/Fibonacci Levels.md",
+    "Upper Studies (Next)/attachments/Pasted image 20250502123726.png",
+    "Upper Studies (Next)/attachments",
     "Upper Studies (Next)",
     "Fibonacci Tools/attachments/Pasted image 20250410104607.png",
     "Fibonacci Tools/attachments/Pasted image 20250410091649.png",
     "Fibonacci Tools/attachments",
-    "Continuation Patterns/Continuation Patterns.md",
-    "Breakout Patterns (Study More)/Breakout Patterns.md",
     "Breakout Patterns (Study More)/attachments/Pasted image 20250409155727.png",
-    "Reversal Patterns/Technical Chart Patterns.md",
-    "Combination Patterns/Balance Range (Rectangle).md",
-    "Price & Volume/Volume.md",
     "Fibonacci Tools",
     "Combination Patterns/attachments/Pasted image 20250409124509.png",
     "Combination Patterns/attachments/Pasted image 20250409102800.png",

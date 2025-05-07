@@ -1,0 +1,4 @@
+- Plots the average price from yesterdays price action under the assumption that will act as an inflection point today. Other levels extrapolated. 
+- Can be support and resistance; Remember supers. 
+- Trading above pivot, bullish;
+- Trading below pivot bearish.

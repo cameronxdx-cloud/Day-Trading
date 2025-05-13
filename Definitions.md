@@ -30,3 +30,7 @@
 **Zone Method**
 
 **Stop Loss**
+
+**Convergence** - Average moving closer together; momentum is slowing down. 
+
+**Divergence** - Average moving further apart; momentum is picking up.

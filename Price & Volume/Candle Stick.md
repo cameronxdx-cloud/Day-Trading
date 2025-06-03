@@ -23,7 +23,7 @@ A **continuation candle** is a candlestick pattern in technical analysis that su
 - Price action: green candle, small price action to downside, large amount of price action to high. Buyers in control
 - Price action: red candle.
 
-# Question Mark Candles
+# Question Mark Candles (DOJI)
 A **Question Mark Candle** isn’t a widely recognized term in traditional candlestick analysis, but traders might use it informally to describe **indecision candles** or **uncertain market movement**.
 
 ![](attachments/Pasted%20image%2020250404114044.png)

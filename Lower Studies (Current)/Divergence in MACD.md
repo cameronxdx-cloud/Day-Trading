@@ -1,0 +1,3 @@
+- Price makes higher high when MACD makes lower high, or price makes a lower low when MACD makes higher low.
+- A strategy used to determine shift in strength.
+- Best when used in combination with other factors that may signal a reversal. 

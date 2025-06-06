@@ -8,91 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f41ab8cd2f0cb17c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lower Studies (Current)/Lower Studies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lower Studies"
-            }
-          },
-          {
-            "id": "96041dd08f0bba7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lower Studies (Current)/MCAD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MCAD"
-            }
-          },
-          {
-            "id": "e54a349d67f9a228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lower Studies (Current)/Divergence in MACD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Divergence in MACD"
-            }
-          },
-          {
-            "id": "f6446f13d0079f2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lower Studies (Current)/Divergence in MACD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Divergence in MACD"
-            }
-          },
-          {
-            "id": "ae5385d2d9c64cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lower Studies (Current)/RSI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RSI"
-            }
-          },
-          {
             "id": "02d2423e4e864aa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lower Studies (Current)/Chaikin Money Flow (CMF).md",
+                "file": "Price & Volume/Candle Stick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chaikin Money Flow (CMF)"
+              "title": "Candle Stick"
+            }
+          },
+          {
+            "id": "fee6353ce113b9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fxalexg/EVERY Candlestick Pattern YOU Need to Know to Trade Forex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVERY Candlestick Pattern YOU Need to Know to Trade Forex"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,22 +191,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02d2423e4e864aa8",
+  "active": "fee6353ce113b9dc",
   "lastOpenFiles": [
-    "Lower Studies (Current)/RSI.md",
-    "Lower Studies (Current)/Chaikin Money Flow (CMF).md",
+    "Price & Volume/Untitled.md",
+    "fxalexg/EVERY Candlestick Pattern YOU Need to Know to Trade Forex.md",
     "Price & Volume/Candle Stick.md",
-    "Lower Studies (Current)/Divergence in MACD.md",
-    "Definitions.md",
-    "Lower Studies (Current)/MCAD.md",
+    "fxalexg",
     "Breakout Patterns (Study More)/Breakout Patterns.md",
+    "Upper Studies (Next)/Bollinger Brands.md",
+    "Definitions.md",
+    "Upper Studies (Next)/Recap.md",
+    "Lower Studies (Current)/Chaikin Money Flow (CMF).md",
+    "Lower Studies (Current)/RSI.md",
+    "Lower Studies (Current)/Divergence in MACD.md",
+    "Lower Studies (Current)/MCAD.md",
     "Combination Patterns/Balance Range (Rectangle).md",
     "Basic Drawings/Trend Lines.md",
     "Lower Studies (Current)/Lower Studies.md",
-    "Upper Studies (Next)/Recap.md",
     "Lower Studies (Current)",
     "Upper Studies (Next)/Pivot Points.md",
-    "Upper Studies (Next)/Bollinger Brands.md",
     "Upper Studies (Next)/Moving Averages Market Indicators.md",
     "Quick Notes.md",
     "attachments/Pasted image 20250507135730.png",
@@ -288,7 +235,6 @@
     "Breakout Patterns (Study More)/attachments/Pasted image 20250408161021.png",
     "Breakout Patterns (Study More)/attachments",
     "Breakout Patterns (Study More)",
-    "Continuation Patterns/attachments",
     "Installation.md",
     "Welcome.md"
   ]

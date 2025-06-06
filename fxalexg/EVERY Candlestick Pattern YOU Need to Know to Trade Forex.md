@@ -10,6 +10,9 @@
 
 - Candlestick patterns are essential for forex trading, providing insights into market sentiment and potential price movements.
 - This video covers key candlestick patterns, their significance, and how to use them effectively in trading.
+- The larger the candlestick, the bigger the move
+
+- The smaller the candlestick, the smaller the move 
 
 ## Key Candlestick Patterns
 

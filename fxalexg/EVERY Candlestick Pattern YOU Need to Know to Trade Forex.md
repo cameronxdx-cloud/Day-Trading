@@ -18,42 +18,107 @@
 
 ### 1. Single Candlestick Patterns
 
-#### Marubozu
+#### Long Day
 
-- **Description**: A long candlestick with little to no wicks, indicating strong momentum.
-- **Types**:
-    - **Bullish Marubozu**: Long green candle, no wicks, shows strong buying pressure. Often signals continuation in an uptrend or a bullish reversal in a downtrend.
-    - **Bearish Marubozu**: Long red candle, no wicks, indicates strong selling pressure. Suggests continuation in a downtrend or a bearish reversal in an uptrend.
-- **Trading Tip**: Look for Marubozu at key support/resistance levels for higher probability trades.
+![](attachments/Pasted%20image%2020250607100307.png)
 
-#### Hammer
+- **Description**: A long body candlestick, indicating strong momentum. That days momentum was strong, and it is likely that the next day will follow.
+    - **Bullish**: Long green candle,  shows strong buying pressure. Often signals continuation in an uptrend or a bullish reversal in a downtrend.
+    - **Bearish**: Long red candle, indicates strong selling pressure. Suggests continuation in a downtrend or a bearish reversal in an uptrend.
+#### Short Day
+![](attachments/Pasted%20image%2020250607100340.png)
+- **Description**: A small body candlestick, or big wick. Choppy market/Slow market/Consolidation. Indicating slow market. indecision in the market. 
+ **Significance**: Indicates a potential bullish reversal as buyers push the price up after a sell-off
+#### Belt Hold Line
+![](attachments/Pasted%20image%2020250607100441.png)
 
-- **Description**: Small body with a long lower wick (at least twice the body length), forms at the bottom of a downtrend.
-- **Significance**: Indicates a potential bullish reversal as buyers push the price up after a sell-off.
-- **Trading Tip**: Confirm with support levels or other indicators (e.g., RSI) for stronger signals.
+- **Description**: Simple long candle stick, opening its low or high and closing at the opposite end.
+- **Significance**: A potential Reversal in the current trend down/up
+- **Trading Tip**: Also known as rejection; with big wick. (i.e the candle has melted and all you see is the wick.)
+#### Morning Star
+![](attachments/Pasted%20image%2020250607100841.png)
+- **Description**: 3 different candle sticks.
+	- 1 Red candle stick
+	- 1 Candle stick that stop
+	- 1 Bullish Engulfing Candle stick 
+- **Significance**: Showing a complete reversal now that the market is going to head to the upside.  
+- **Trading Tip**: fxalexg personal fav pattern to use daily when interested in buying. 
+
+#### Evening Star
+![](attachments/Pasted%20image%2020250607101040.png)
+- **Description**: Reversal pattern market is heading to the downside.
+- **3 different candle sticks**: 
+	- 1 Red Candlestick
+	- 1 Small rejection
+	- 1 Bearish Engulfing Candlestick
+-**Significance**: Showing a complete reversal now that the market is going to head to the downside.  
+- **Trading Tip**: fxalexg personal fav pattern to use daily. 
 
 #### Shooting Star
+![](attachments/Pasted%20image%2020250607101301.png)
 
-- **Description**: Small body with a long upper wick (at least twice the body length), forms at the top of an uptrend.
-- **Significance**: Signals a potential bearish reversal as sellers push the price down after a rally.
-- **Trading Tip**: Look for confirmation with resistance levels or bearish follow-through candles.
+- **Description**: Shows at the end of a potential uptrend
+- **3 different candle sticks**:
+	- 1 Small body and large wick (No power to the upside / Rejecting the upside )
+- **Trading Tip**: Indicating buyers are no longer pushing the market, and the sellers are stronger than the buyers. 
+#### Two Crows
+![](attachments/Pasted%20image%2020250607101615.png)
 
-#### Hanging Man
+- **Description**: Bearish Reversal pattern occurring in an uptrend it's with a long 
+- **3 different candle sticks**: 
+	- *
+	- *
+	- *
+- **Trading Tip**: 
+#### Three Inside Up
 
-- **Description**: Similar to a hammer but forms at the end of an uptrend. Small body with a long lower wick.
-- **Significance**: Suggests a bearish reversal as selling pressure emerges after an uptrend.
-- **Trading Tip**: Requires confirmation from subsequent bearish candles or indicators.
+- **Description**: Reversal pattern market is heading to the downside.
+- **3 different candle sticks**: 
+	- *
+	- *
+	- *
+- **Trading Tip**: 
+#### Three Inside Down
 
-#### Doji
+- **Description**: Reversal pattern market is heading to the downside.
+- **3 different candle sticks**: 
+	- *
+	- *
+	- *
+- **Trading Tip**: 
+#### Three Outside Up
 
-- **Description**: Open and close prices are very close or equal, forming a small body with wicks. Represents indecision.
-- **Types**:
-    - **Standard Doji**: Neutral, shows market indecision.
-    - **Dragonfly Doji**: Long lower wick, potential bullish reversal at downtrend bottoms.
-    - **Gravestone Doji**: Long upper wick, potential bearish reversal at uptrend tops.
-- **Trading Tip**: Dojis are stronger when they appear at key levels (support/resistance) or after a strong trend.
+- **Description**: Reversal pattern market is heading to the downside.
+- **3 different candle sticks**: 
+	- *
+	- *
+	- *
+- **Trading Tip**: 
+- #### Three Outside Down
 
-### 2. Two-Candlestick Patterns
+- **Description**: Reversal pattern market is heading to the downside.
+- **3 different candle sticks**: 
+	- *
+	- *
+	- *
+- **Trading Tip**: 
+#### Three Stars In The South 
+
+- **Description**: Reversal pattern market is heading to the downside.
+- **3 different candle sticks**: 
+	- *
+	- *
+	- *
+- **Trading Tip**: 
+#### Three Advancing White Soldiers
+
+- **Description**: Reversal pattern market is heading to the downside.
+- **3 different candle sticks**: 
+	- *
+	- *
+	- *
+- **Trading Tip**: 
+### 2. Reversal Candlestick Patterns
 
 #### Bullish Engulfing
 
@@ -67,25 +132,35 @@
 - **Significance**: Signals a bearish reversal after an uptrend, indicating strong selling pressure.
 - **Trading Tip**: Best used at resistance levels or in overbought conditions.
 
-#### Piercing Line
+#### Head and Shoulders
 
 - **Description**: A bearish candle followed by a bullish candle that opens below the previous low but closes above the midpoint of the previous candle’s body.
 - **Significance**: Suggests a bullish reversal after a downtrend.
 - **Trading Tip**: Confirm with volume increase or other bullish signals.
 
-#### Dark Cloud Cover
+#### Inverted Head and Shoulders
 
 - **Description**: A bullish candle followed by a bearish candle that opens above the previous high but closes below the midpoint of the previous candle’s body.
 - **Significance**: Indicates a bearish reversal after an uptrend.
 - **Trading Tip**: Look for confirmation with bearish follow-through or resistance levels.
-
-#### Bullish Harami
+([How this Trading Strategy Made Me $70,000 in 1 Day | Head And Shoulders Pattern](https://www.youtube.com/watch?v=JA4N8nlycXY)
+#### Double Top
 
 - **Description**: A large bearish candle followed by a smaller bullish candle contained within the previous candle’s body.
 - **Significance**: Suggests a potential bullish reversal after a downtrend.
 - **Trading Tip**: Stronger when it appears in oversold conditions or at support.
 
-#### Bearish Harami
+#### Double Bottom
+
+- **Description**: A large bullish candle followed by a smaller bearish candle contained within the previous candle’s body.
+- **Significance**: Indicates a potential bearish reversal after an uptrend.
+- **Trading Tip**: Confirm with resistance levels or other bearish indicators.
+#### Triple Top
+
+- **Description**: A large bullish candle followed by a smaller bearish candle contained within the previous candle’s body.
+- **Significance**: Indicates a potential bearish reversal after an uptrend.
+- **Trading Tip**: Confirm with resistance levels or other bearish indicators.
+#### Triple Bottom
 
 - **Description**: A large bullish candle followed by a smaller bearish candle contained within the previous candle’s body.
 - **Significance**: Indicates a potential bearish reversal after an uptrend.

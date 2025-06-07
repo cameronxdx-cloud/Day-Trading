@@ -64,11 +64,11 @@
 #### Two Crows
 ![](attachments/Pasted%20image%2020250607101615.png)
 
-- **Description**: Bearish Reversal pattern occurring in an uptrend it's with a long 
+- **Description**: Bearish Reversal pattern occurring in an uptrend
 - **3 different candle sticks**: 
-	- *
-	- *
-	- *
+	- 1 Long Green Candlestick
+	- Red Candle that opens with the body of its previous candle and closes lower
+	-**Significance**: Showing a shift from buyers to sellers.
 - **Trading Tip**: 
 #### Three Inside Up
 

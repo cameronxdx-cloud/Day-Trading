@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions.md",
+                "file": "fxalexg/Trading Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definitions"
+              "title": "Trading Setup"
             }
           },
           {
@@ -247,6 +247,7 @@
   },
   "active": "f747f627c78053d2",
   "lastOpenFiles": [
+    "Definitions.md",
     "fxalexg/Trading Setup.md",
     "fxalexg/Head and Shoulders.md",
     "Reversal Patterns/attachments/Pasted image 20250404120034.png",
@@ -272,7 +273,6 @@
     "Price & Volume/Untitled.md",
     "fxalexg",
     "Upper Studies (Next)/Bollinger Brands.md",
-    "Definitions.md",
     "Upper Studies (Next)/Recap.md",
     "Lower Studies (Current)/Chaikin Money Flow (CMF).md",
     "Lower Studies (Current)/RSI.md",

@@ -1,3 +1,5 @@
+# Buy At The Support Level (Floor)
+# Sell At The Resistance Level (Roof)
 # Top Down Analysis 
 Start with timeframes:
 - Weekly 

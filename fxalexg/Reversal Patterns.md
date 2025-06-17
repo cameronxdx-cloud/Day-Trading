@@ -16,16 +16,16 @@
 # Doji
 
 ## Pattern
-**Looks like plus sign
+**Looks like plus sign**
 
 ![](attachments/Pasted%20image%2020250617092345.png)
-- **These form at very strong areas of interest/support&resistance/liquidity zones
+- **These form at very strong areas of interest/support&resistance/liquidity zones**
 - ![](attachments/Pasted%20image%2020250617092814.png)
-- **Major indecision in the market, but if created at a high area of interest, then has the chance to reverse 
+- **Major indecision in the market, but if created at a high area of interest, then has the chance to reverse** 
 
 ![](attachments/Pasted%20image%2020250617092650.png)
 
-- **More Dojis, the more likely the market will reverse 
+- **More Dojis, the more likely the market will reverse** 
 
 ![](attachments/Pasted%20image%2020250617093131.png)
 

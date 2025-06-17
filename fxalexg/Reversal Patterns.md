@@ -1,6 +1,6 @@
 # Head and Shoulders
 ## Pattern
-**Reversal Pattern to the downside** 
+**Reversal Pattern to the ~={red}Downside** 
 
 ![](attachments/Pasted%20image%2020250617091815.png)
 
@@ -9,7 +9,7 @@
 
 # Inverted Head and Shoulders
 ## Pattern
-**Reversal Pattern to the upside** 
+**Reversal Pattern to the ~={green}Upside** 
 
 ![](attachments/Pasted%20image%2020250617091906.png)
 

@@ -13,4 +13,6 @@
 
 
 
+# Buying / Entering Market 
 
+![](attachments/Pasted%20image%2020250617101641.png)

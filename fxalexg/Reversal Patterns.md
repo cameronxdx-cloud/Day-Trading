@@ -29,7 +29,7 @@
 
 ![](attachments/Pasted%20image%2020250617093131.png)
 
-# Morning Star
+# Morning / Evening Star
 
 ![](attachments/Pasted%20image%2020250617093229.png)
 

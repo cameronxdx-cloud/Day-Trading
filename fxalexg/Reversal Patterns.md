@@ -29,3 +29,10 @@
 
 ![](attachments/Pasted%20image%2020250617093131.png)
 
+# Morning Star
+
+![](attachments/Pasted%20image%2020250617093229.png)
+
+- A morning star is created when its going to go BULLISH
+
+![](attachments/Pasted%20image%2020250617093315.png)

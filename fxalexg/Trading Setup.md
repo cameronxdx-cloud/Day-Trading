@@ -30,6 +30,8 @@ Understand if the time-frames are bullish or bearish for all time frames.
 - Highest timeframe going in the direction you want to focus on 
 - Higher timeframe more respected by the market 
 
+[Market Structure](Market%20Structure.md)
+
 ## 2nd Step: (Area Of Interest AOI)
 
 ### Tips: 

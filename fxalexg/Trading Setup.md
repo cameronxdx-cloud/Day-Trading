@@ -9,7 +9,21 @@ Start with timeframes:
 - 1H
 - 30 min
 - 15 min
+
 **Tip:** Each timeframe has a purpose 
+
+- Weekly - Trend of Market
+- Daily - Trend of Market
+- 4H - Trend of Market
+
+**We base lower time to enter based off the direction of the higher time frames** 
+
+- 2H - Entry of Trade
+- 1H - Entry
+- 30 min - Entry
+- 15 min - Entry
+
+
 
 ## 1st Step:
 Understand if the time-frames are bullish or bearish for all time frames.

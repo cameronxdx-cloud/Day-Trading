@@ -38,6 +38,8 @@ Understand if the time-frames are bullish or bearish for all time frames.
 
 - **Point when the market has respected minimum of 3 times (touches)**
 
+- **When price reaches ABOVE AOI there's a push UP, whenever BELOW, there's a push DOWN**
+
 EX: 
 - We have a bullish market. 
 - Bullish market is anticipating a retracement on price. 

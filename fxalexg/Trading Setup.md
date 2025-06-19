@@ -68,7 +68,11 @@ EX:
 
 ![](attachments/Pasted%20image%2020250611164345.png)
 
-## 5th Step:
+## 5th Step: Stop Loss 
+- **Placed above the last previous high**
+
+## 6th Step: Take Profit 
+- **Placed a little below last structure point where believe daily time frame is going to go.**
 
 ## Chart Times:
 Trend of market:

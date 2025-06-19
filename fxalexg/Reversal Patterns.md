@@ -39,3 +39,7 @@
 
 - A evening start is created when it going to go ~={red}BEARISH
 ![](attachments/Pasted%20image%2020250617093703.png)
+
+
+
+![](attachments/Pasted%20image%2020250619105843.png)

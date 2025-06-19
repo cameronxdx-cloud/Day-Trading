@@ -33,6 +33,8 @@ Understand if the time-frames are bullish or bearish for all time frames.
 ## 2nd Step: (Area Of Interest AOI)
 **We can not enter a trade without an area of interest** 
 
+**- Point when the market has respected minimum of 3 times (touches)**
+
 EX: 
 - We have a bullish market. 
 - Bullish market is anticipating a retracement on price. 

@@ -56,10 +56,10 @@ EX:
 
 ![](attachments/Pasted%20image%2020250611162748.png)
 
-## When price is reaching area of interest 
+## 3rd Step: When price is reaching area of interest 
 - Wait to see the retracement before entry signal 
 
-## Entry Signal
+## 4th Step: Entry Signal
 - Wait for shift of structure 
 - The minor body candlestick that closed below the structure point, is our entry signal 
 - 30m time frame has shifted in correlation in time with higher timeframe 
@@ -67,6 +67,8 @@ EX:
 ![](attachments/Pasted%20image%2020250611163944.png)
 
 ![](attachments/Pasted%20image%2020250611164345.png)
+
+## 5th Step:
 
 ## Chart Times:
 Trend of market:

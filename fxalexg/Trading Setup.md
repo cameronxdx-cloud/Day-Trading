@@ -40,6 +40,8 @@ Understand if the time-frames are bullish or bearish for all time frames.
 
 - **When price reaches ABOVE AOI there's a push UP, whenever BELOW, there's a push DOWN**
 
+- **Need Lower time frames to match higher time frames for add confluence for Entry** 
+
 EX: 
 - We have a bullish market. 
 - Bullish market is anticipating a retracement on price. 

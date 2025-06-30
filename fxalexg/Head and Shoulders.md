@@ -12,3 +12,6 @@
 **Reversal Pattern to the ~={green}UPSIDE** 
 
 ![](attachments/Pasted%20image%2020250617091906.png)
+
+## Real Life Example Inverted Head and Soulders
+![](attachments/Pasted%20image%2020250630113452.png)

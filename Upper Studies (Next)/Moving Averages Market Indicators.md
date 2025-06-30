@@ -1,4 +1,4 @@
-
+ 
 # Moving Averages & Market Indicators
 
 > ⚠️ **These are NOT buy and sell signals.**  

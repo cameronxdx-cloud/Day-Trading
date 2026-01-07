@@ -13,5 +13,5 @@
 
 ![](attachments/Pasted%20image%2020250617091906.png)
 
-## Real Life Example Inverted Head and Soulders
+## Real Life Example Inverted Head and Shoulders
 ![](attachments/Pasted%20image%2020250630113452.png)

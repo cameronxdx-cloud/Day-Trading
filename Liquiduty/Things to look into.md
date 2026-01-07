@@ -1,0 +1,3 @@
+- VWAP
+- Time Price opportunity 
+- Fair Value Gap 

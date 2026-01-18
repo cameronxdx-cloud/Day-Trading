@@ -8,8 +8,8 @@ VWAP is basically the **"average price"** the asset has traded at today — but 
 
 VWAP acts like a **dynamic fair value line** for the day:
 
-- **Price ABOVE VWAP** → Bullish bias (buyers in control, average trader is profiting)
-- **Price BELOW VWAP** → Bearish bias (sellers in control, average trader is losing)
+- **Price ABOVE VWAP** → Bullish bias (buyers in control)
+- **Price BELOW VWAP** → Bearish bias (sellers in control)
 - **Price hugging / chopping around VWAP** → Balanced / ranging market (no strong direction)
 
 - Many pros (and institutions) use it as **support/resistance**:

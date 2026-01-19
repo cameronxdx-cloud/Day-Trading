@@ -137,16 +137,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Volume Profile/VWAP.md",
+                "file": "fxalexg/Trading Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VWAP"
+              "title": "Trading Setup"
+            }
+          },
+          {
+            "id": "c466af8208df735c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Volume Profile/Delta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Delta"
+            }
+          },
+          {
+            "id": "bd9e6ae70207beba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Volume Profile/Delta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Delta"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -304,53 +332,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a6eff15b01c1b6c",
+  "active": "7afe473bc4703d1d",
   "lastOpenFiles": [
-    "Volume Profile/Volume Profile Indicator.md",
+    "Holidays/Slippage.md",
+    "Volume Profile/Delta.md",
+    "Holidays",
+    "fxalexg/Trading Setup.md",
+    "fxalexg/Reversal Patterns.md",
+    "fxalexg/Quick Notes.md",
+    "fxalexg/Perfect Trade Set Up.md",
+    "fxalexg/Market Structure.md",
+    "fxalexg/Market Sessions.md",
+    "fxalexg/Head and Shoulders.md",
+    "fxalexg/EVERY Candlestick Pattern YOU Need to Know to Trade Forex.md",
+    "fxalexg/Engulfing Candlestick.md",
+    "Fibonacci Tools/Fibonacci Levels.md",
+    "Continuation Patterns/Continuation Patterns.md",
+    "Combination Patterns/Balance Range (Rectangle).md",
+    "Cam's G Trades/Trading Checklist.md",
+    "Breakout Patterns (Study More)/Breakout Patterns.md",
+    "Basic Drawings/Trend Lines.md",
+    "Basic Drawings/Support & Resistance Theory.md",
     "Volume Profile/VWAP.md",
+    "Volume Profile/Volume Profile Indicator.md",
     "Quick Notes.md",
     "Definitions.md",
     "Cam's G Trades/🧾 Day Trading Journal Template.md",
     "Cam's G Trades/📘 Notion Layout Structure – _Forex Day Trading Journal_.md",
     "Volume Profile",
-    "fxalexg/Perfect Trade Set Up.md",
-    "fxalexg/Market Structure.md",
     "Upper Studies (Next)/Bollinger Brands.md",
     "Upper Studies (Next)/Moving Averages Market Indicators.md",
     "Price & Volume/attachments/Pasted image 20250404114026.png",
-    "Price & Volume/Candle Stick.md",
-    "Liquidity/Things to look into.md",
-    "fxalexg/Head and Shoulders.md",
-    "fxalexg/Reversal Patterns.md",
-    "Liquidity/Liquidity.md",
     "Liquidity",
-    "fxalexg/Trading Setup.md",
     "fxalexg/attachments/Pasted image 20251201105525.png",
-    "Cam's G Trades/Trading Checklist.md",
     "Cam's G Trades/attachments/Pasted image 20250903071424.png",
-    "Cam's G Trades/Week Of June 30th/June 30 2025.md",
-    "fxalexg/EVERY Candlestick Pattern YOU Need to Know to Trade Forex.md",
     "Cam's G Trades/attachments/Pasted image 20250725070816.png",
     "Cam's G Trades/attachments",
-    "fxalexg/Market Sessions.md",
     "fxalexg/attachments/Pasted image 20250701212205.png",
-    "fxalexg/Quick Notes.md",
     "TJR",
-    "Cam's G Trades/Week Of June 30th/June 30th London Session.md",
     "fxalexg/attachments/Pasted image 20250630113452.png",
     "Cam's G Trades/Week Of June 30th",
     "Cam's G Trades",
     "fxalexg/attachments/Pasted image 20250629175053.png",
     "fxalexg/attachments/Pasted image 20250629171305.png",
-    "Combination Patterns/Balance Range (Rectangle).md",
-    "Lower Studies (Current)/MCAD.md",
-    "Lower Studies (Current)/Lower Studies.md",
-    "Lower Studies (Current)/Divergence in MACD.md",
     "fxalexg/attachments/Pasted image 20250619105843.png",
     "fxalexg/attachments/Pasted image 20250617123019.png",
     "fxalexg/attachments",
     "fxalexg",
-    "Lower Studies (Current)",
-    "Upper Studies (Next)/attachments"
+    "Lower Studies (Current)"
   ]
 }

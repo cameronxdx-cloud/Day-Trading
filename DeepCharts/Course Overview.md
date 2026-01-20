@@ -1,0 +1,16 @@
+
+- What is order flow and why should you even use it
+- Understanding futures contracts
+- How the double auction works
+- Types of order flows & data feeds
+- Main Matching Algorithms
+- Reading the "Times & Sales"
+- Reading the "Depth of Market"
+- Reading Deep Print (Orderflow Candles/Footprint)
+- Reading the Volume Profile
+- Reading the VWAP
+- Reading the CVD
+- The Basics of the Liquidity Auction Theory
+- Types of Auction in the Footprint Chart
+- Typical Footprint Patterns
+- Sessions flow

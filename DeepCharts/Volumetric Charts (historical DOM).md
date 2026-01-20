@@ -1,0 +1,5 @@
+- Volume profile by price
+	- How much volume was trading by price, during either session, or cumulatively over the charts 
+	- Total volume of trading / buying and selling activity at that price 
+		- how much money was traded during this price range during that specific time
+		- 

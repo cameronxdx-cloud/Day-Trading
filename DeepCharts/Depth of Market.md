@@ -1,1 +1,7 @@
 - Shows at every level of price, how much sells/buy offers there are in the order books
+- Footprint tells us how many buy orders are matched with an aggressive seller at that level 
+	- e.x. the left side of the book, their were x amount of contracts someone sold to the passive buyers 
+	- On the left hand sellers exerting downwards pressure on the price by accepting all of these buys offer.
+	- Every Seller shows that were ready to accept to pay a slightly lower price to get filled 
+	- Its aggressive sellers that accepted a buy offer 
+	- Right hand shows up aggressive buys that accepted paying a slightly higher price to get their hands on their hands on a sell 

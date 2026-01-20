@@ -1,0 +1,1 @@
+- Shows at every level of price, how much sells/buy offers there are in the order books

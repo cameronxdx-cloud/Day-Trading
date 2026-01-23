@@ -10,7 +10,11 @@
 # Exhaustion
 *Exhaustion* - is a phase where you see from a profile standpoint, a dry up in volume 
 - Less and less volume towards the bottom 
-- You dont have a clear phase or absorption towards the bottom 
+- You don't have a clear phase or absorption towards the bottom 
 - An attempt a dry up in sell volume and buyers taking the upper hand
 - Sellers stopped accepting lower price at the same pace as aggressive buyers 
 ![](attachments/Pasted%20image%2020260122175325.png)
+# The difference 
+
+- The difference between a phase of absorption where you have the passive participants blocking price from going up and then taking the upper hand. 
+- When this happens in a way that aggressive selling that dries up without a clear wall from passive buyers, and then buyers taking the upper hand.

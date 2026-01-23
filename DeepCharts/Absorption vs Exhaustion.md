@@ -18,3 +18,10 @@
 
 - The difference between a phase of absorption where you have the passive participants blocking price from going up and then taking the upper hand. 
 - When this happens in a way that aggressive selling that dries up without a clear wall from passive buyers, and then buyers taking the upper hand.
+
+**Quick comparison:**
+
+- **Absorption** = Strong hands stopping the move (defensive strength)
+- **Exhaustion** = Weak hands giving up after overextending (offensive weakness)
+
+Both can lead to reversals, but absorption shows strength building up, while exhaustion shows weakness burning out.

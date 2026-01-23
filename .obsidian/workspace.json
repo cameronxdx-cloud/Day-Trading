@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepCharts/Absorption vs Exhaustion.md",
+                "file": "Trade-Recaps/NQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Absorption vs Exhaustion"
+              "title": "NQ"
             }
           }
         ]
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98b1fbf76d6e7ff4",
+  "active": "bd40ec28f529a98c",
   "lastOpenFiles": [
+    "DeepCharts/Absorption vs Exhaustion.md",
     "DeepCharts/attachments/Pasted image 20260122175325.png",
     "DeepCharts/attachments/Pasted image 20260122175047.png",
     "DeepCharts/attachments/Pasted image 20260122174559.png",
@@ -189,7 +190,6 @@
     "Trade-Recaps/NQ.md",
     "Trade-Recaps/attachments/Meeting started 2026_01_22 16_11 EST - Notes by Gemini.pdf",
     "Trade-Recaps/attachments",
-    "DeepCharts/Absorption vs Exhaustion.md",
     "Trade-Recaps",
     "Continuation Patterns/Continuation Patterns.md",
     "Combination Patterns/Balance Range (Rectangle).md",
@@ -225,7 +225,6 @@
     "Cam's G Trades/attachments",
     "fxalexg/attachments/Pasted image 20250701212205.png",
     "TJR",
-    "fxalexg/attachments/Pasted image 20250630113452.png",
-    "fxalexg/attachments/Pasted image 20250629175053.png"
+    "fxalexg/attachments/Pasted image 20250630113452.png"
   ]
 }

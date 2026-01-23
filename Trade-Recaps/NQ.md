@@ -1,5 +1,6 @@
 ## 1-22-26
 
+[TradeZella](https://app.tradezella.com/shared/2cb5afc0/note/facbc95a)
 
 https://drive.google.com/file/d/1CWf-Axdl0xO5kIDrkrcMWN25ZsCdOrSe/view?usp=sharing
 

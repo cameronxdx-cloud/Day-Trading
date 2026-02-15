@@ -34,9 +34,35 @@
               "icon": "lucide-file",
               "title": "Asia Session Call"
             }
+          },
+          {
+            "id": "bde998615ec6b1aa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "c1372b94b811fe60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMA/Simple Moving Avg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simple Moving Avg"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,8 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66b2ea47ce5836ff",
+  "active": "c1372b94b811fe60",
   "lastOpenFiles": [
+    "SMA/Simple Moving Avg.md",
+    "SMA",
     "Breakout Patterns (Study More)/Breakout Patterns.md",
     "Breakout Patterns (Study More)/Asia Session Call.md",
     "Notes",
@@ -232,14 +260,12 @@
     "fxalexg/Head and Shoulders.md",
     "fxalexg/EVERY Candlestick Pattern YOU Need to Know to Trade Forex.md",
     "fxalexg/Engulfing Candlestick.md",
-    "Fibonacci Tools/Fibonacci Levels.md",
     "Volume Profile",
     "Price & Volume/attachments/Pasted image 20250404114026.png",
     "Liquidity",
     "fxalexg/attachments/Pasted image 20251201105525.png",
     "Cam's G Trades/attachments/Pasted image 20250903071424.png",
     "Cam's G Trades/attachments/Pasted image 20250725070816.png",
-    "Cam's G Trades/attachments",
     "fxalexg/attachments/Pasted image 20250701212205.png",
     "fxalexg/attachments/Pasted image 20250630113452.png"
   ]

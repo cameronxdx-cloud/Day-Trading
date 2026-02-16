@@ -22,8 +22,7 @@ Candle sticks with tall wicks below = bullish
 - Key Levels
 - Trend
 
-
-13:30 Steps:
+# TA
 1. Draw fib starting on 1 Day previous high to low
 2. 4 HR Look for key levels resistance/support
 3. Go into 1 HR look for key levels of resistance/support
@@ -33,3 +32,8 @@ Candle sticks with tall wicks below = bullish
 7. Where is price at 200 SMA? 
 8. Scale down to 5 min timeframe 
 9. HA candles on 5 min 
+
+# ORB (Opening Range Breakout)
+- The opening range (often first 5 - 30 mins)
+- Breakout above/below that range
+- Volatility expansion and time-based market behavior

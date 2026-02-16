@@ -1,0 +1,5 @@
+- The opening range (often first 5 - 30 mins)
+- Breakout above/below that range
+- Volatility expansion and time-based market behavior
+- Markets spend a lot of time in *ranges*
+- Expansion tends to occur in one direction, not randomly 

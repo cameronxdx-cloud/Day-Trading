@@ -33,7 +33,3 @@ Candle sticks with tall wicks below = bullish
 8. Scale down to 5 min timeframe 
 9. HA candles on 5 min 
 
-# ORB (Opening Range Breakout)
-- The opening range (often first 5 - 30 mins)
-- Breakout above/below that range
-- Volatility expansion and time-based market behavior

@@ -13,6 +13,9 @@ The average closing price for a stock over the last 50 trading days.
 If it is a **strong** uptrend, we will be over the 50 SMA
 ~={white}General overall uptrend, above the 200 SMA=~
 
+**Golden Cross:**
+**Death Cross:**
+
 Candle sticks with tall wicks above = bearish
 Candle sticks with tall wicks below = bullish
 
@@ -32,4 +35,5 @@ Candle sticks with tall wicks below = bullish
 7. Where is price at 200 SMA? 
 8. Scale down to 5 min timeframe 
 9. HA candles on 5 min 
+10. ORB
 

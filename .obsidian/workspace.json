@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peachy/ORB (Opening Range Breakout).md",
+                "file": "Peachy/Simple Moving Avg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ORB (Opening Range Breakout)"
+              "title": "Simple Moving Avg"
             }
           }
         ],
@@ -236,8 +236,8 @@
   },
   "active": "edbbe9f842055969",
   "lastOpenFiles": [
-    "Peachy/Simple Moving Avg.md",
     "Peachy/ORB (Opening Range Breakout).md",
+    "Peachy/Simple Moving Avg.md",
     "Peachy",
     "Breakout Patterns (Study More)/Breakout Patterns.md",
     "Breakout Patterns (Study More)/Asia Session Call.md",

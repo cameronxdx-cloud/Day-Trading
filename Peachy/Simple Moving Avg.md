@@ -14,8 +14,11 @@ If it is a **strong** uptrend, we will be over the 50 SMA
 ~={white}General overall uptrend, above the 200 SMA=~
 
 **Golden Cross:** **SMA 50 crosses _above_ the SMA 200**. It's considered a major bullish signal
+![](attachments/Pasted%20image%2020260220063013.png)
+
 **Death Cross:** **SMA 50 crosses _below_ the SMA 200**. Considered a bearish signal.
 **1H SMA 50**
+![](attachments/Pasted%20image%2020260220063105.png)
 **1H SMA 200**
 **4H SMA 50**
 **4H SMA 200**

@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peachy/Gold.md",
+                "file": "Peachy/Simple Moving Avg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gold"
+              "title": "Simple Moving Avg"
             }
           }
         ],
@@ -250,11 +250,11 @@
   },
   "active": "5961133784279a04",
   "lastOpenFiles": [
+    "Peachy/ORB (Opening Range Breakout).md",
+    "Peachy/Gold.md",
     "Peachy/attachments/Pasted image 20260216113948.png",
     "Peachy/attachments",
     "Peachy/Simple Moving Avg.md",
-    "Peachy/Gold.md",
-    "Peachy/ORB (Opening Range Breakout).md",
     "Peachy",
     "Breakout Patterns (Study More)/Breakout Patterns.md",
     "Breakout Patterns (Study More)/Asia Session Call.md",
@@ -294,7 +294,6 @@
     "fxalexg/attachments/Pasted image 20251201105525.png",
     "Cam's G Trades/attachments/Pasted image 20250903071424.png",
     "Cam's G Trades/attachments/Pasted image 20250725070816.png",
-    "fxalexg/attachments/Pasted image 20250701212205.png",
-    "fxalexg/attachments/Pasted image 20250630113452.png"
+    "fxalexg/attachments/Pasted image 20250701212205.png"
   ]
 }

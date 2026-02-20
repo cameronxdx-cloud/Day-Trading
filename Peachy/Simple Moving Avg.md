@@ -13,8 +13,15 @@ The average closing price for a stock over the last 50 trading days.
 If it is a **strong** uptrend, we will be over the 50 SMA
 ~={white}General overall uptrend, above the 200 SMA=~
 
-**Golden Cross:**
-**Death Cross:**
+**Golden Cross:** **SMA 50 crosses _above_ the SMA 200**. It's considered a major bullish signal
+**Death Cross:** **SMA 50 crosses _below_ the SMA 200**. Considered a bearish signal.
+**1H SMA 50**
+**1H SMA 200**
+**4H SMA 50**
+**4H SMA 200**
+**Daily SMA 50**
+**Daily SMA 200**
+
 
 Candle sticks with tall wicks above = bearish
 Candle sticks with tall wicks below = bullish

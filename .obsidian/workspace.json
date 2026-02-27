@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peachy/Fibonacci.md",
+                "file": "Fibonacci Tools/Fibonacci Levels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fibonacci"
+              "title": "Fibonacci Levels"
             }
           }
         ],
@@ -250,8 +250,8 @@
   },
   "active": "5961133784279a04",
   "lastOpenFiles": [
-    "Fibonacci Tools/Fibonacci Levels.md",
     "Peachy/Fibonacci.md",
+    "Fibonacci Tools/Fibonacci Levels.md",
     "Peachy/Simple Moving Avg.md",
     "Peachy/attachments/Pasted image 20260220063105.png",
     "Peachy/attachments/Pasted image 20260220063013.png",

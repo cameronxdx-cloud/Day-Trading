@@ -1,0 +1,1 @@
+Measurement tool connecting the high and low in a range to determine best discount entry base 
